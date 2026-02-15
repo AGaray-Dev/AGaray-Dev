@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi ✌🏾 I'm Andrew.
 
-<!--
-**AGaray-Dev/AGaray-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am in the process of switching into tech and documenting the process along the way. I’m focused on building projects, improving a little every day, and strengthening my core development skills.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨🏾‍💻 About Me
+
+- 💻 Self-taught developer learning software engineering from the ground up
+- 🌱 Currently focused on: programming fundamentals, problem solving, and real-world projects
+- 🧠 Passionate about clean design, usability, and user experiences
+- 🔨 Learning by building — not just watching tutorials
+- 📍 Based in Illinois
+
+---
+
+## 🛠 Tech I'm Learning & Using
+
+- Languages: Python, JavaScript (learning)
+- Tools: Git, GitHub, VS Code, Warp, Figma (for now).
+- Concepts: APIs, automation, version control, problem-solving patterns
+
+---
+
+## 📌 Current Goals
+
+- Build and ship consistent personal projects
+- Strengthen data structures & algorithms fundamentals
+- Contribute to open source
+- Collaborate with other developers
+- Land my first software development role
+
+---
+
+## 📂 Featured Projects
+
+> Projects coming soon — currently building and refining my first portfolio applications.
+
+(Each new project will focus on solving a real problem and improving code quality.)
+
+- GitHub: github.com/AGaray-Dev
+- Discord: agaray_dev 
+
+---
+Always Learning 📚
