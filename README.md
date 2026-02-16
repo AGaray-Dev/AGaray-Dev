@@ -1,5 +1,5 @@
-# Hi ✌🏾 I'm Andrew.
-
+# Andrew. ✌🏾
+    (Developer/Tech/Identical Twin)
 
 I am in the process of switching into tech and documenting the process along the way. I’m focused on building projects, improving a little every day, and strengthening my core development skills.
 
@@ -9,7 +9,7 @@ I am in the process of switching into tech and documenting the process along the
 - 💻 Self-taught developer learning software engineering from the ground up
 - 🌱 Currently focused on: programming fundamentals, problem solving, and real-world projects
 - 🧠 Passionate about clean design, usability, and user experiences
-- 🔨 Learning by building — not just watching tutorials
+- 🔨 Learning by building
 - 📍 Based in Illinois
 
 ---
@@ -19,13 +19,16 @@ I am in the process of switching into tech and documenting the process along the
 - Languages: Python, JavaScript (learning)
 - Tools: Git, GitHub, VS Code, Warp, Figma (for now).
 - Concepts: APIs, automation, version control, problem-solving patterns
-<p align="left">
+  <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32" alt="Figma"/>
+  <img src="https://cdn.simpleicons.org/warp" height="32" alt="Warp Terminal"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="32" alt="Supabase"/>
+
 </p>
 
 ---
@@ -47,7 +50,10 @@ I am in the process of switching into tech and documenting the process along the
 (Each new project will focus on solving a real problem and improving code quality.)
 
 - GitHub: github.com/AGaray-Dev
-- Discord: agaray_dev 
+- Discord: agaray_dev
+  
+  <img src="https://cdn.simpleicons.org/discord" height="32" alt="Discord"/> <img src="https://cdn.simpleicons.org/davinciresolve" height="32" alt="DaVinci Resolve"/>
+
 
 ---
 Always Learning 📚
