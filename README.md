@@ -1,39 +1,38 @@
 # Andrew. ✌🏾
-    (Developer/Tech/Identical Twin)
+(Developer/Tech/Identical Twin)
 
-I am in the process of switching into tech and documenting the process along the way. I’m focused on building projects, improving a little every day, and strengthening my core development skills.
+I am in the process of transitioning into tech and documenting my journey along the way. My focus is on building 
+projects, improving daily, and strengthening core development skills.
 
+## About Me
 
-## 👨🏾‍💻 About Me
+- **Self-taught Developer**: Learning software engineering from the ground up.
+- **Current Focus**: Programming fundamentals, problem-solving, and real-world projects.
+- **Passion**: Clean design, usability, and user experiences.
+- **Learning Method**: Building by doing.
 
-- 💻 Self-taught developer learning software engineering from the ground up
-- 🌱 Currently focused on: programming fundamentals, problem solving, and real-world projects
-- 🧠 Passionate about clean design, usability, and user experiences
-- 🔨 Learning by building
-- 📍 Based in Illinois
+## Tech I'm Learning & Using
 
----
+- **Languages**: Python, JavaScript (learning)
+- **Tools**: Git, GitHub, VS Code, Warp, Figma
+- **Concepts**: APIs, automation, version control, problem-solving patterns
 
-## 🛠 Tech I'm Learning & Using
-
-- Languages: Python, JavaScript (learning)
-- Tools: Git, GitHub, VS Code, Warp, Figma (for now).
-- Concepts: APIs, automation, version control, problem-solving patterns
-  <p align="left">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" 
+alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32" alt="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="VS 
+Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32" 
+alt="Figma"/>
   <img src="https://cdn.simpleicons.org/warp" height="32" alt="Warp Terminal"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="32" alt="Supabase"/>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="32" 
+alt="Supabase"/>
 </p>
 
----
-
-## 📌 Current Goals
+## Current Goals
 
 - Build and ship consistent personal projects
 - Strengthen data structures & algorithms fundamentals
@@ -41,19 +40,18 @@ I am in the process of switching into tech and documenting the process along the
 - Collaborate with other developers
 - Land my first software development role
 
----
-
-## 📂 Featured Projects
+## Featured Projects
 
 > Projects coming soon — currently building and refining my first portfolio applications.
 
-(Each new project will focus on solving a real problem and improving code quality.)
+(Each new project will focus on solving real problems and improving code quality.)
 
-- GitHub: github.com/AGaray-Dev
-- Discord: agaray_dev
-  
-  <img src="https://cdn.simpleicons.org/discord" height="32" alt="Discord"/> <img src="https://cdn.simpleicons.org/davinciresolve" height="32" alt="DaVinci Resolve"/>
+- **GitHub**: [AGaray-Dev](https://github.com/AGaray-Dev)
+- **Discord**: [agaray_dev](https://discord.gg/yourserver)
 
+<img src="https://cdn.simpleicons.org/discord" height="32" alt="Discord"/> <img 
+src="https://cdn.simpleicons.org/davinciresolve" height="32" alt="DaVinci Resolve"/>
 
 ---
+
 Always Learning 📚
