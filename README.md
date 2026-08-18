@@ -20,7 +20,6 @@ alt="Supabase"/>
 </p>
 
 New here, connect with me:
-- **GitHub**: [AGaray-Dev](https://github.com/AGaray-Dev)
 - **Discord**: [agaray_dev](https://discord.gg/yourserver)
 
 <img src="https://cdn.simpleicons.org/discord" height="32" alt="Discord"/> <img 
